@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "920305468678",
+    "project_id": "stylish-92b22",
+    "storage_bucket": "stylish-92b22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920305468678:android:7a2f0059fac5fdd50bca87",
+        "android_client_info": {
+          "package_name": "com.stylish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920305468678-p6cmua66pu0rah4njq5irmg28uck6u70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stylish",
+            "certificate_hash": "c738de636a8d0c7dfc106b11358dc0c5b6764db9"
+          }
+        },
+        {
+          "client_id": "920305468678-opnbo0nk0fmd8j65kqjhanlndbmf9pg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYtYdJRPpqhVGyhPIS6Y8jEbU0HCOcRNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920305468678-opnbo0nk0fmd8j65kqjhanlndbmf9pg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
